@@ -1,2 +1,2 @@
 Image :
-![myimage-alt-tag](https://github.com/rakaardiansyah/ziswaf/blob/main/image/Untitled1.png)
+![myimage-alt-tag](https://github.com/rakaardiansyah/comprokti/blob/main/image/comprokti.png)
